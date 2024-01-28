@@ -16,5 +16,6 @@ I'm a data analyst
 1.  Microsoft Excel
 2.  MySQL
 3.  Microsoft Power BI
-4.  Python programming
+4.  Tableau 
+5.  Python programming
 
